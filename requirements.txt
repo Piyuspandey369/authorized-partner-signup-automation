@@ -1,0 +1,4 @@
+selenium==4.27.1
+webdriver-manager==4.0.2
+faker==30.8.2
+beautifulsoup4==4.12.3
